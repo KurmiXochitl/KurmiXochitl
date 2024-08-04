@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there! ¡Hola! Tudo bem? 👋 🇲🇽 🇧🇴
 
 <!--
-**KurmiXochitl/KurmiXochitl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Reasons why **KurmiXochitl/KurmiXochitl** is ✨ _special_ ✨ :
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on making videogames.
+- 🌱 I’m currently learning game engines.
+- 👯 I’m looking to collaborate on videogames.
+- 🤔 I’m looking for help with everything related to game development, data science and machine learning.
+- 💬 Ask me about storytelling and translating English-Spanish-Portuguese. 🇺🇸 🇪🇸 🇧🇷
+- 📫 How to reach me: https:influenciaindebida.carrd.co
+- 😄 Pronouns: she/her 🏳️‍⚧️🏳️‍🌈
+- ⚡ Fun fact: I write poetry and play chess.
+--> White hat ⛑ red team
