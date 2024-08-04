@@ -20,4 +20,5 @@ Reasons why **KurmiXochitl/KurmiXochitl** is ✨ _special_ ✨ :
 - 📫 How to reach me: https:influenciaindebida.carrd.co
 - 😄 Pronouns: she/her 🏳️‍⚧️🏳️‍🌈
 - ⚡ Fun fact: I write poetry and play chess.
-- 🧙‍♀️ White hat ⛑ red team
+- 🏴‍☠️ White hat ⛑ red team
+- 🔞 Minors do not interact
